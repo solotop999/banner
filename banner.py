@@ -1,7 +1,7 @@
 BLUE = "\33[94m"
 RESET = "\033[0m"
 banner = f"""{BLUE}                                                       
-                        88                                                
+From:                   88                                                
                         88                ,d                              
                         88                88                              
 ,adPPYba,   ,adPPYba,   88   ,adPPYba,  MM88MMM  ,adPPYba,   8b,dPPYba,   
